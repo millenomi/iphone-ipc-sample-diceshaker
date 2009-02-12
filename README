@@ -1,0 +1,1 @@
+This is a sample of "inteprocess" communication ("IPC") between applications running on the iPhone, via URL opening. The app this one communicates with is Diceshaker, whose source is also available at http://github.com/millenomi/diceshaker/.
